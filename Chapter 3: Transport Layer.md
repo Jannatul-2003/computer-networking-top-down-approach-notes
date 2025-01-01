@@ -16,6 +16,19 @@
 
 > The most fundamental responsibility of UDP and TCP is to extend IP’s delivery service between two end systems to a delivery service between two processes running on the end systems. Extending host-to-host delivery to process-to-process delivery is called transport layer multiplexing and demultiplexing.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+### Best way to remember TCP vs UDP
+- Imagine two cars, each with a bouncing ball inside, driving down a slope. These cars handle the bouncing ball differently in two scenarios:
+#### Scenario 1: Car A – Cautious Approach
+- Car A is equipped with a protective shield to prevent the ball from bouncing out. The driver is extremely cautious and stops the car every time the ball moves to ensure it remains in the correct spot.
+> **Result**: Car A successfully reaches the bottom of the slope with the ball intact. However, the journey is slower because of frequent stops to check on the ball.
+
+#### Scenario 2: Car B – Reckless Approach
+- Car B lacks a protective shield and drives down the same slope at high speed. The driver is reckless and doesn’t stop to check on the ball’s position, allowing it to bounce freely and even risk flying out of the car.
+> **Result**: Car B reaches the bottom of the slope faster than Car A. Unfortunately, the ball gets lost along the way.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 - Key Differences in UDP vs TCP Protocols:
 
