@@ -1,4 +1,4 @@
-# Chapter 1: Computer Networks and the Internet
+# Chapter 1- Computer Networks and the Internet
 
 ## 1.1 A Nuts-and-Bolts Description (Infrastructure based Internet)
 
